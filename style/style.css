@@ -23,6 +23,7 @@
 body{
     background-color:white;
     font-family: var(--fonte-padrao);
+    margin: 20px;
 }
 a.externo::after{
     content: '\00a0\1F517';
